@@ -1,3 +1,11 @@
+This is from Daring Fireball
+* AUTOMATIC ESCAPING FOR SPECIAL CHARACTERS
+* &copy;
+
+AT&T
+
+AT&amp;T
+
 ### HTML is very much considered the language of the web. So why did we cover Markdown? Well Markdown is used in simple situations where a lot of customization is not needed. It's mainly used by programmers in writing documentation of their code and is frequently seen in README files. HTML, however, is universally used and far more customizable and powerful. So let's get some practice with Markdown before we move on to HTML!
 
 # my day
